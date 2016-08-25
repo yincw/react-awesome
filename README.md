@@ -1,2 +1,2 @@
 # react-awesome
-React 连接
+React 链接
